@@ -63,6 +63,6 @@ If you find our work useful in your research, please cite:
 },
   author={Chen, Kang and Zheng, Yajing and Huang, Tiejun and Yu, Zhaofei},
   journal={arXiv preprint arXiv:2501.04477},
-  year={2024}
+  year={2025}
 }
 ```
