@@ -1,5 +1,5 @@
 <h2 align="center"> 
-  <a href="https://arxiv.org/abs/2411.10504">Rethinking High-speed Image Reconstruction Framework with Spike Camera
+  <a href="https://arxiv.org/abs/2501.04477">Rethinking High-speed Image Reconstruction Framework with Spike Camera
 </a>
 </h2>
 <h5 align="center"> 
@@ -62,7 +62,7 @@ If you find our work useful in your research, please cite:
   title={Rethinking High-speed Image Reconstruction Framework with Spike Camera
 },
   author={Chen, Kang and Zheng, Yajing and Huang, Tiejun and Yu, Zhaofei},
-  journal={arXiv preprint arXiv:2403.09486},
+  journal={arXiv preprint arXiv:2501.04477},
   year={2024}
 }
 ```
